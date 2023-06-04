@@ -1,0 +1,22 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.json": "json",
+    ".helmignore": "plaintext",
+    "*.tpl": "plaintext",
+    "esp_chip_info.h": "c",
+    "task.h": "c",
+    "sdkconfig.h": "c",
+    "stdio.h": "c",
+    "freertos.h": "c",
+    "inttypes.h": "c",
+    "gpio.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM4",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s3.cfg"
+  ]
+}
