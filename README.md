@@ -13,7 +13,7 @@
 
 - [x] ESP-IDF
 - [x] Arduino
-- [ ] PlatformIO
+- [x] PlatformIO
 
 ## JavaScript
 
