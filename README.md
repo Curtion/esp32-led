@@ -7,3 +7,42 @@
 
 
 单片机采用`推挽`输出，连接`GPIO0`接口。
+
+# 当前
+
+## C/C++
+
+- [x] ESP-IDF
+- [x] Arduino
+- [ ] PlatformIO
+
+## JavaScript
+
+- [ ] Espruino
+- [ ] JerryScript
+- [ ] QuickJS
+
+## TypeScript
+- [ ] DeviceScript
+
+## Lua
+- [ ] NodeMCU
+
+## Python
+- [ ] MicroPython
+
+## Rust
+- [ ] ESP-IDF
+
+## GoLang
+- [ ] TinyGo
+
+## C#
+- [ ] nanoFramework
+
+## JAVA
+- [ ] MicroEJ
+
+## WebAssembly 
+- [ ] WAMR
+- [ ] wasm3
