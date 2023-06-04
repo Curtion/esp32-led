@@ -1,0 +1,1 @@
+该项初始化项目报错，应该是原生`ESP-IDF`与`PlatformIO`的`ESP-IDF`冲突了
