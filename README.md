@@ -22,10 +22,10 @@
 - [ ] QuickJS
 
 ## TypeScript
-- [ ] DeviceScript
+- [x] DeviceScript(不支持)
 
 ## Lua
-- [ ] NodeMCU
+- [x] NodeMCU(不支持)
 
 ## Python
 - [ ] MicroPython
