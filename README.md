@@ -28,7 +28,7 @@
 - [x] NodeMCU(不适用)
 
 ## Python
-- [ ] MicroPython
+- [X] MicroPython
 
 ## Rust
 - [ ] ESP-IDF
