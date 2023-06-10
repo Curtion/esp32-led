@@ -17,7 +17,6 @@
 
 ## JavaScript
 
-- [ ] Espruino
 - [ ] JerryScript
 - [ ] QuickJS
 
@@ -28,13 +27,13 @@
 - [x] NodeMCU(不适用)
 
 ## Python
-- [X] MicroPython
+- [x] MicroPython
 
 ## Rust
 - [ ] ESP-IDF
 
 ## GoLang
-- [ ] TinyGo
+- [x] TinyGo(不适用)
 
 ## C#
 - [ ] nanoFramework
