@@ -36,11 +36,11 @@
 - [x] TinyGo(不适用)
 
 ## C#
-- [ ] nanoFramework
+- [x] nanoFramework(不适用)
 
 ## JAVA
 - [ ] MicroEJ
 
-## WebAssembly 
+## WebAssembly
 - [ ] WAMR
 - [ ] wasm3
