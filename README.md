@@ -44,3 +44,11 @@
 ## WebAssembly
 - [ ] WAMR
 - [ ] wasm3
+
+# 未来
+
+`JerryScript`和`QuickJS`实现依托于`ESP-IDF`, 如果只是`Blink`项目则意义不大。
+
+`MicroEJ`是商业化商业化框架，需付费。
+
+`WAMR`和`wasm3` 可尝试。
