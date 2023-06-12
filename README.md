@@ -21,22 +21,22 @@
 - [ ] QuickJS
 
 ## TypeScript
-- [x] DeviceScript(不适用)
+- [x] DeviceScript (不适用)
 
 ## Lua
-- [x] NodeMCU(不适用)
+- [x] NodeMCU (不适用)
 
 ## Python
 - [x] MicroPython
 
 ## Rust
-- [ ] ESP-IDF
+- [x] ESP-IDF
 
 ## GoLang
-- [x] TinyGo(不适用)
+- [x] TinyGo (不适用)
 
 ## C#
-- [x] nanoFramework(不适用)
+- [x] nanoFramework (不适用)
 
 ## JAVA
 - [ ] MicroEJ
